@@ -1,0 +1,12 @@
+Clothed_Defeat.png
+Clothed_Even1.png
+Clothed_Even2.png
+Clothed_Even3.png
+Clothed_Losing1.png
+Clothed_Losing2.png
+Clothed_Losing3.png
+Clothed_Provoke.png
+Clothed_Victory.png
+Clothed_Winning1.png
+Clothed_Winning2.png
+Clothed_Winning3.png

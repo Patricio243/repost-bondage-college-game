@@ -1,0 +1,11 @@
+Clothed.png
+Clothed_Cuffs.png
+Clothed_Cuffs_Hit.png
+Clothed_Hit.png
+Clothed_Leader.png
+Clothed_Leader_HitLeft.png
+Clothed_Leader_HitRight.png
+NoSkirt_Cuffs.png
+NoSkirt_Cuffs_Hit.png
+RedButt_Cuffs.png
+RedButt_Cuffs_Hit.png

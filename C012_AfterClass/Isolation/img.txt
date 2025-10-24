@@ -1,0 +1,14 @@
+Cross.jpg
+CrossPlayer.jpg
+CrossSarah.jpg
+Horse.jpg
+HorsePlayer.jpg
+HorseSarah.jpg
+IsolationCrossSarah.jpg
+IsolationHorseSarah.jpg
+IsolationPillorySarah.jpg
+IsolationRescueSarah.jpg
+IsolationSarah.jpg
+Pillory.jpg
+PilloryPlayer.jpg
+PillorySarah.jpg
