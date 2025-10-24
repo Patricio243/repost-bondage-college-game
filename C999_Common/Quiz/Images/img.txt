@@ -1,5 +1,0 @@
-AnswerBubble.png
-PossibleAnswerBubble.png
-QuestionBubble.png
-ThinkBubble.png
-YellBubble.png
